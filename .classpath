@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="forge-1.7.10-10.13.2.1230-universal.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
